@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "23.0",
+    "version": "u23.0",
     "versionCode": "23000",
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
